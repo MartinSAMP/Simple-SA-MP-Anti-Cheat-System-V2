@@ -25,7 +25,6 @@ Sistem anti-cheat sisi server untuk SA:MP yang ditulis dalam Pawn. Versi 2 denga
 
 ### Persyaratan
 - Plugin ColAndreas (untuk deteksi tanah yang akurat).
-- *Include* sscanf2 (untuk penguraian perintah).
 
 ### Langkah Instalasi
 1. Simpan skrip sebagai `anticheat.pwn`.
@@ -123,6 +122,3 @@ Untuk perlindungan maksimal, kombinasikan dengan:
 - *Backup* data pemain secara rutin.
 - Pertimbangkan *whitelist* untuk acara khusus yang memerlukan kecepatan tinggi.
 
-
-*Ini adalah file README.md dalam format Markdown. Silakan disalin dan digunakan.*
-```
